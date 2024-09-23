@@ -1,0 +1,11 @@
+pymongo
+dash
+pandas
+seaborn
+matplotlib
+plotly
+ipywidgets
+ipython
+geopandas
+statsmodels
+requests
