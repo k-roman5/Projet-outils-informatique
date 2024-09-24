@@ -40,6 +40,7 @@ pip install -r requirements.txt
 
 ## Contributeurs  : 
 
-| [<img src="https://avatars.githubusercontent.com/u/102798439?v=4" width="50" height="50" alt=""/>](https://github.com/k-roman5) | [<img src="https://avatars.githubusercontent.com/u/102798509?v=4" width="50" height="50" alt=""/>](https://github.com/mathildetissandier?tab=followers) |       |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
-|                                           [Karina Roman](https://github.com/k-roman5)                                           |                                       [Mathilde Tissandier](https://github.com/mathildetissandier?tab=followers)                                        |
+| [<img src="https://avatars.githubusercontent.com/u/102798439?v=4" width="50" height="50" alt="Karina Roman"/>](https://github.com/k-roman5) | [<img src="https://avatars.githubusercontent.com/u/102798509?v=4" width="50" height="50" alt="Mathilde Tissandier"/>](https://github.com/mathildetissandier) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                 [Karina Roman](https://github.com/k-roman5)                                                 |                                                 [Mathilde Tissandier](https://github.com/mathildetissandier)                                                 |
+  
