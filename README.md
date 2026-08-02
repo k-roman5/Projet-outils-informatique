@@ -1,4 +1,4 @@
-# PROJET PROJET OUTILS INFORMATIQUE
+# PROJET OUTILS INFORMATIQUE
 
 Bienvenue sur notre projet de visualisation analytique de master 1. Ce projet se concentre sur la recherche de corrélations entre des variables socio-économiques en France et des événements majeurs mondiaux.
 
